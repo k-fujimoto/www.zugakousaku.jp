@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "851Gkktt";
+    src: url("../font/851Gkktt.ttf") format("truetype");
+    font-display: swap;
+}
+
+.title{
+    font-size: 50px;
+    font-family: "851Gkktt", sans-serif;
+}
