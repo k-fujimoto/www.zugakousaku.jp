@@ -13,9 +13,10 @@ body {
 }
 
 .title {
-    margin-top: 96px;
-    display: flex;
-    justify-content: center;
-    font-size: 48px;
+    font-size: 40px;
     font-family: "851Gkktt", sans-serif;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 0 16px 8px 0;
 }
