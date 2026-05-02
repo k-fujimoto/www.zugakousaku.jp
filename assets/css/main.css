@@ -14,7 +14,7 @@ html, body {
 }
 
 body {
-    min-height: 101vh;
+    min-height: calc(100vh + 1px);
 }
 
 .title {
